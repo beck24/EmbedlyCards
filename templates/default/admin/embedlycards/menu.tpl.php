@@ -1,0 +1,1 @@
+<li <?php if ($_SERVER['REQUEST_URI'] == '/admin/embedlycards/') echo 'class="active"'; ?>><a href="/admin/embedlycards/">Embedly Cards</a></li>
